@@ -1,0 +1,17 @@
+.button {
+    position: absolute;
+    left:50%;
+    border-radius: 50%;
+    color: blue;
+}
+
+
+.button:active{
+    color: red;
+}
+
+.table {
+   border-width: 1px;
+   border: solid;
+    
+}
